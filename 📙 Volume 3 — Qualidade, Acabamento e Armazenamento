@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volume 3 — Qualidade, Acabamento e Armazenamento</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>📙 Volume 3 — Qualidade, Acabamento e Armazenamento</h1>
+        <a href="index.html" class="voltar">← Voltar</a>
+    </header>
+    <main class="capitulo">
+        <section>
+            <h2>Objetivos deste volume</h2>
+            <ul class="detalhe">
+                <li>Controlar cura e secagem para durabilidade e segurança</li>
+                <li>Cortar, polir e dar acabamento profissional</li>
+                <li>Controlar lotes e qualidade conforme normas simples</li>
+                <li>Embalar e rotular corretamente, pronto para venda</li>
+                <li>Resolver problemas comuns que aparecem após o preparo</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Cura e Secagem — Passo a Passo</h2>
+            <div class="espaco-img">[Ambiente arejado, prateleiras, barras afastadas]</div>
+            <p><strong>Tempo:</strong> barras: 4‑6 semanas; geleia/desinfetantes: 7‑15 dias de repouso antes de vender.</p>
+            <p><strong>Local:</strong> seco, arejado, sem sol direto, temperatura 20‑28 °C; evitar contato direto com chão ou parede.</p>
+            <p><strong>Cuidados:</strong> virar barras a cada 7 dias; separar por lote; observar se aparece “suor” ou manchas — ajustar umidade do ambiente.</p>
+        </section>
+
+        <section>
+            <h2>Corte, Acabamento e Polimento</h2>
+            <p><strong>Ferramentas:</strong> fio de corte ou faca lisa, régua, lixa fina, espátula.</p>
+            <p><strong>Quando cortar:</strong> após 24‑48 h de descanso na forma — firme mas não duro.</p>
+            <p><strong>Modo:</strong> medir tamanho padrão (ex: 100‑120 g); cortar com movimento reto; lixar bordas para ficar macio; polir com pano seco para brilho natural.</p>
+        </section>
+
+        <section>
+            <h2>Controle de Lote e Qualidade</h2>
+            <div class="espaco-img">[Modelo de ficha de lote]</div>
+            <p><strong>Registro:</strong> número do lote, data fabricação, validade, ingredientes usados, responsável.</p>
+            <p><strong>Testes simples:</strong> dureza ao toque; cor e aroma uniformes; teste de pH aproximado com papel indicador (ideal 9‑10 para sabões).</p>
+            <p><strong>Descarte:</strong> separar qualquer peça com defeito ou alteração; anotar causa para não repetir.</p>
+        </section>
+
+        <section>
+            <h2>Embalagem e Rótulo — Conforme Norma</h2>
+            <p><strong>Materiais:</strong> papel vegetal, caixas pequenas, potes plásticos/vidro; evitar plásticos muito fechados antes da cura completa.</p>
+            <p><strong>Obrigatório no rótulo:</strong> nome do produto, ingredientes em ordem decrescente, validade, lote, peso líquido, dados do fabricante, advertências de uso e contato.</p>
+            <p><strong>Identidade:</strong> usar cores e logotipo Biosoul Energies; deixar visual limpo e atraente.</p>
+        </section>
+
+        <section>
+            <h2>Resolução de Problemas Pós‑Preparo</h2>
+            <ul class="detalhe">
+                <li>Sabão que “suou”: excesso de umidade ou água na receita — secar mais e ajustar proporção na próxima.</li>
+                <li>Manchas brancas: excesso de soda ou secagem muito rápida — ajustar tempo de cura.</li>
+                <li>Perda de aroma: exposição ao sol ou ar — embalar logo após cura completa.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Armazenamento e Validade</h2>
+            <p>Guardar em local fresco, seco e escuro; sabões em barra: até 1 ano; geleia e desinfetantes: até 6 meses.</p>
+        </section>
+
+        <p>🎧 Áudio: <a href="#">Acabamento e qualidade profissional</a> | <a href="#">Prova 3</a></p>
+    </main>
+</body>
+</html>
