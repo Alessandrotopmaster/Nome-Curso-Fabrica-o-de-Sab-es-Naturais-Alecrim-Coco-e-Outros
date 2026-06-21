@@ -1,0 +1,5 @@
+Adicione aqui:
+- imagens/ — matérias‑primas, etapas de mistura, moldes e produtos finais
+- audio/ — dicas de proporções e cuidados
+- videos/ — demonstração de segurança e preparo
+- provas/ — exercícios de cálculo e modelos de rótulo/planilha de custo
