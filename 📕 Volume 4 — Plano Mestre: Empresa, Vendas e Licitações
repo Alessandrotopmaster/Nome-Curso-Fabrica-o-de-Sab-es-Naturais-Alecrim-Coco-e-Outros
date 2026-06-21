@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volume 4 — Plano Mestre: Empresa, Vendas e Licitações</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>📕 Volume 4 — Plano Mestre: Empresa, Vendas e Licitações</h1>
+        <a href="index.html" class="voltar">← Voltar</a>
+    </header>
+    <main class="capitulo">
+        <section>
+            <h2>Objetivos deste volume</h2>
+            <ul class="detalhe">
+                <li>Montar empresa formalizada do jeito certo</li>
+                <li>Vender diretamente: porta‑a‑porta, feiras e catálogo</li>
+                <li>Entrar em mercados, lojas e parcerias comerciais</li>
+                <li>Cadastrar e vender para empresas e órgãos públicos</li>
+                <li>Participar de licitações e escalar produção com lucro</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Montar a Empresa — Passo a Passo</h2>
+            <div class="espaco-img">[Fluxo: MEI → ME/EPP, CNAE e cadastros]</div>
+            <p><strong>Primeiro registro:</strong> comece como MEI — CNAE 1099‑6/99 ou 2063‑1/00 — baixo custo e simples.</p>
+            <p><strong>Crescimento:</strong> quando aumentar volume, mudar para Microempresa (ME) ou EPP; obter Inscrição Estadual e Municipal.</p>
+            <p><strong>Cadastros obrigatórios:</strong> Alvará de Funcionamento; cadastro na Vigilância Sanitária; Certidões Negativas (federal, FGTS, trabalhista); registro na Junta Comercial.</p>
+            <p><strong>Controle:</strong> separar contas pessoais e empresariais; organizar estoque e fluxo de caixa; usar nota fiscal eletrônica.</p>
+        </section>
+
+        <section>
+            <h2>Vendas Diretas: Porta‑a‑Porta e Feiras</h2>
+            <p><strong>Estratégia porta‑a‑porta:</strong> definir rota por bairro; levar amostras e folhetos; oferecer kits econômicos; anotar pedidos e entregar rápido; pedir indicações.</p>
+            <p><strong>Feiras e eventos:</strong> escolher locais com movimento; montar exposição atraente; dar degustação; fazer cartão de visita e catálogo simples.</p>
+            <p><strong>Catálogo e rede:</strong> criar perfil no Flow Business e redes sociais; mostrar vídeos do preparo e resultados; fazer parceria com vizinhos para pontos de coleta.</p>
+        </section>
+
+        <section>
+            <h2>Entrar em Mercados e Lojas</h2>
+            <p><strong>Cadastro:</strong> preparar pasta completa: CNPJ, certidões, ficha técnica de cada produto, amostras, tabela de preço atacado e prazo de entrega.</p>
+            <p><strong>Abordagem:</strong> procurar gerente de compras ou dono; destacar diferencial natural, qualidade e preço competitivo; oferecer reposição garantida e troca de produtos com defeito.</p>
+            <p><strong>Condições:</strong> definir preço de atacado com margem maior; prazo de pagamento compatível; rotulagem e embalagem prontas para gôndola.</p>
+        </section>
+
+        <section>
+            <h2>Vender para Empresas e Contratadas</h2>
+            <p><strong>Quais:</strong> escritórios, clínicas, escolas, restaurantes, hotéis, postos de combustível, condomínios e empresas de limpeza terceirizada.</p>
+            <p><strong>Cadastro:</strong> apresentar portfólio, certidões, ficha técnica e referências; cadastrar no sistema de fornecedores.</p>
+            <p><strong>Proposta:</strong> oferecer contrato mensal com entrega programada; descontos por volume; garantia de qualidade; cumprir rigorosamente horários e quantidades.</p>
+        </section>
+
+        <section>
+            <h2>Licitações e Órgãos Públicos — Passo a Passo</h2>
+            <div class="espaco-img">[Fluxo: cadastro → edital → proposta → entrega]</div>
+            <p><strong>Onde encontrar:</strong> Portal Nacional de Compras Públicas, portais dos municípios, estados e federais; também em plataformas como Compras Governamentais e BEC/SP.</p>
+            <p><strong>Cadastro:</strong> fazer cadastro no SICAF e no portal da entidade; manter certidões sempre atualizadas; registrar atestados de capacidade técnica.</p>
+            <p><strong>Preparo:</strong> ler todo o edital com atenção; verificar exigências específicas; elaborar proposta técnica e de preço dentro do limite; juntar toda documentação pedida.</p>
+            <p><strong>Execução:</strong> se ganhar, cumprir rigorosamente prazo, quantidade e qualidade; manter relatórios e contato com fiscal do contrato; usar experiência para novas licitações maiores.</p>
+            <p><strong>Dica mestre:</strong> comece como subcontratado de empresas que já ganharam licitações; acumule experiência e depois concorra diretamente.</p>
+        </section>
+
+        <section>
+            <h2>Precificação e Escalonamento</h2>
+            <p><strong>Fórmula:</strong> custo de insumos + embalagem + mão‑de‑obra + custos fixos + margem de lucro (mínimo 30‑40 % para varejo; 20‑25 % para atacado/licitações).</p>
+            <p><strong>Escalonar:</strong> aumentar lote aos poucos; comprar insumos em volume para desconto; ajustar equipe conforme demanda; reinvestir lucro em melhorias e divulgação.</p>
+        </section>
+
+        <p>🎧 Áudio: <a href="#">Montar empresa e vender em todos os canais</a> | <a href="#">Prova Final e Certificação</a></p>
+    </main>
+</body>
+</html>
